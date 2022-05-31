@@ -10,7 +10,7 @@ allowing them to take action to reduce infant and maternal mortality. The instru
 revealing light on fetal heart rate (FHR), fetal movements, uterine contractions, and other factors.<br />
 
 ## Objective
-We create machine learning algorithms that can accurately predict and classify the health of the fetus. This will be done in the following stages: 
+We create machine learning algorithms that can accurately predict and classify the health of the fetus. This will be done in the following stages:<br / > 
 1.Data Cleaning <br />
 2.Exploration <br />
 3.Feature Engineering <br />
